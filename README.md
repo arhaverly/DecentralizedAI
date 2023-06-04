@@ -10,7 +10,7 @@ The world’s compute is strongest and most resilient when it’s distributed. T
 
 In order to make it very hard for the models to be used for evil, we have to make the models large enough for only our distributed system to be able to handle the training and eventually the querying.
 
-Another benefit of decentralyzing the compute is it allows anyone to contribute to the leading AI research, rather than just employees at OpenAI and Google.
+Another benefit of decentralizing the compute is it allows anyone to contribute to the leading AI research, rather than just employees at OpenAI and Google.
 
 
 ## Monetization
