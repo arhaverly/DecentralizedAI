@@ -26,12 +26,3 @@ Money goes directly from customers to computers. We can copy how Bitcoin/Etheriu
 ## Strong/General AI
 Given the difficulty of defining general AI and our lack of understanding of the human brain, we may achieve strong AI simply by increasing the model size and integrating it more with the real world environment. We may even consider ChatGPT-4 to be strong AI.
 
-## Immediate TODO:
-1. Create a BOINC project that trains an LLM AI similar to ChatGPT (BOINC-GPT)
-2. Create a web app to query the trained AI
-3. Set up a model verification/ethicality pipeline
-4. Contact experts
-5. Work to make BOINC-GPT competitive with ChatGPT
-6. Monetize the system
-7. Decentralize the AI querying
-
