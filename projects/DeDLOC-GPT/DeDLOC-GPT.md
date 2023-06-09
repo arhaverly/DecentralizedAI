@@ -1,6 +1,6 @@
 # DeDLOC-GPT
 
-DeDLOC-GPT is an LLM trained on using [DeDLOC](https://arxiv.org/pdf/2106.10207.pdf).
+DeDLOC-GPT is an LLM trained using [DeDLOC](https://arxiv.org/pdf/2106.10207.pdf).
 
 
 ## Vision for DeDLOC-GPT
