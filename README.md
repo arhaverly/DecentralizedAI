@@ -10,7 +10,7 @@ The world’s compute is strongest and most resilient when it’s distributed. T
 
 In order to make it very hard for the models to be used for evil, we have to make the models large enough for only our distributed system to be able to handle the training and eventually the querying.
 
-Another benefit of decentralyzing the compute is it allows anyone to contribute to the leading AI research, rather than just employees at OpenAI and Google.
+Another benefit of decentralizing the compute is it allows anyone to contribute to the leading AI research, rather than just employees at OpenAI and Google.
 
 
 ## Monetization
@@ -25,4 +25,5 @@ Money goes directly from customers to computers. We can copy how Bitcoin/Etheriu
 
 ## Strong/General AI
 Given the difficulty of defining general AI and our lack of understanding of the human brain, we may achieve strong AI simply by increasing the model size and integrating it more with the real world environment. We may even consider ChatGPT-4 to be strong AI.
+
 
